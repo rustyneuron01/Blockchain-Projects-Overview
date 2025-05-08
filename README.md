@@ -18,6 +18,22 @@ AletheiasAgora is a DApp project. Users can use this platform to mint ordinals a
   - backend repo: <a href="https://github.com/FCBtc1116/COVault-App/tree/master/multisig-wallet">AletheiasAgora-Backend</a>
   - frontend repo: <a href="https://github.com/FCBtc1116/COVault-App/tree/master/multisig-wallet-fe">AletheiasAgora-Frontend</a>
 
+  
+<h3><u><strong><i>Hydra Swap</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+This is a Defi project on Solana network. Trade, earn, and grow with HydraSwap’s intelligent cross-chain DEX featuring concentrated liquidity on the high-performance Solana blockchain.
+
+<img align="right" width="300px" src="https://github.com/victoryfox19931116/Blockchain-Projects-Overview/assets/89193350/78a3d3a7-da63-4cd5-a011-de5c40ffe54c">
+
+HydraSwap is a next-generation cross-chain DEX powered by our exclusive Hydra Market Maker (HMM) smart pricing algorithm. It helps liquidity providers (LPs) enhance their returns up to 4x and improves their impermanent loss profile. HydraSwap integrates smarter pricing with concentrated liquidity to create greater capital efficiency and superior earnings for LPs.HydraSwap’s proprietary features combined with the speed and convenience of Solana, deliver a fast and reliable DEX. By addressing the needs of LPs we aim to create a robust trading venue with deep liquidity for DeFi.
+
+- Live: <a href="https://hydraswap.io/">HydraSwap</a>
+- Github repos: 
+  - backend repo: <a href="https://github.com/victoryfox19931116/hydra-Defi-BE">Hydra-Backend</a>
+  - frontend repo: <a href="https://github.com/victoryfox19931116/hydra-Defi-FE">Hydra-Frontend</a>
+  - SmartContract repo: <a href="https://github.com/victoryfox19931116/hydra-Defi-SC">Hydra-SmartContract</a>
+
 <h3><u><strong><i>Bitcoin L1 Protocol</i></strong></u> &nbsp;(Bitcoin)</h3>
 <hr />
 Glittr is a protocol that supports the creation of DeFi projects on the Bitcoin Layer 1 Network. It utilizes OP_RETURN and references previous unconfirmed UTXOs to enable users to develop DeFi projects on the Glittr Protocol. My role was setting up a custom test node using bitcoin-cli, creating a custom Bitcoin explorer that displays information about BTC, Rune, and Glittr token transactions, and developing the Glittr SDK code.
@@ -93,22 +109,6 @@ Playzelo is a game project deployed on blockchain networks. There are several ga
   - frontend repo: <a href="https://github.com/victoryfox19931116/scissors/tree/master/frontend">Playzelo-Frontend</a>
   - admin repo: <a href="https://github.com/victoryfox19931116/scissors/tree/master/admin">Playzelo-Admin</a>
 
-
-<h3><u><strong><i>Hydra Swap</i></strong></u> &nbsp;(Solana)</h3>
-<hr />
-
-This is a Defi project on Solana network. Trade, earn, and grow with HydraSwap’s intelligent cross-chain DEX featuring concentrated liquidity on the high-performance Solana blockchain.
-
-<img align="right" width="300px" src="https://github.com/victoryfox19931116/Blockchain-Projects-Overview/assets/89193350/78a3d3a7-da63-4cd5-a011-de5c40ffe54c">
-
-HydraSwap is a next-generation cross-chain DEX powered by our exclusive Hydra Market Maker (HMM) smart pricing algorithm. It helps liquidity providers (LPs) enhance their returns up to 4x and improves their impermanent loss profile. HydraSwap integrates smarter pricing with concentrated liquidity to create greater capital efficiency and superior earnings for LPs.HydraSwap’s proprietary features combined with the speed and convenience of Solana, deliver a fast and reliable DEX. By addressing the needs of LPs we aim to create a robust trading venue with deep liquidity for DeFi.
-
-- Live: <a href="https://hydraswap.io/">HydraSwap</a>
-- Github repos: 
-  - backend repo: <a href="https://github.com/victoryfox19931116/hydra-Defi-BE">Hydra-Backend</a>
-  - frontend repo: <a href="https://github.com/victoryfox19931116/hydra-Defi-FE">Hydra-Frontend</a>
-  - SmartContract repo: <a href="https://github.com/victoryfox19931116/hydra-Defi-SC">Hydra-SmartContract</a>
-  
 
 <h3><u><strong><i>DigiMonkz</i></strong></u> &nbsp;(Etheruem)</h3>
 <hr />
