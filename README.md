@@ -6,6 +6,14 @@ As you can see here, I have built several NFT/Blockchain projects including mint
 <hr />
 Made Several Bot projects on Solana network. Completed gRPC Volume Bot, Bundler Bot, Sniping Bot, Copy Trading Bot, Wallet Tracker on raydium, pumpfun, meteora platform.</b>
 
+- 📊 [Volume Bot](https://www.youtube.com/watch?v=7lVfFEN30M8)
+
+- 🧺 [Bundler Bot](https://www.youtube.com/watch?v=XkJ6IOPr0lI)
+
+- 🎯 [Sniper Bot](https://www.youtube.com/watch?v=D8XfP-WamiA)
+
+- 🔁 [Copy Trading Bot](https://www.youtube.com/watch?v=0PQmbM_v0ug)
+
 - Github repos: 
   - Bot Service repo: <a href="https://github.com/rustyneuron01/Bot-Service-Library">Bot-Service-Library</a>
 
@@ -20,6 +28,8 @@ Defai Agent project what built on EVM network. Support Track NFT & Token balance
 <hr />
 AI Agent library what works on EVM, Solana and SUI networks. <i>Support Voice chat too</i></b>
 A powerful, extensible AI agent framework designed for multichain crypto interactions, voice-enabled interfaces, and cross-platform communication. Seamlessly connect to Twitter, Discord, Telegram, and leverage LLMs like OpenAI, Gemini, LLaMA, Grok, and more.
+
+<img align="right" width="300px" src="https://github.com/user-attachments/assets/47170720-2e52-47a0-9305-8a59571dea37">
 
 - Github repos: 
   - Multichain-AI-Agent-Library repo: <a href="https://github.com/rustyneuron01/Multichain-AI-Agent-Library">Multichain-AI-Agent-Library</a>
