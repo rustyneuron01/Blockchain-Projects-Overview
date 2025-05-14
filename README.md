@@ -23,7 +23,10 @@ Defai Agent project what built on EVM network. Support Track NFT & Token balance
 
 - Github repos: 
   - EVM-Defai-Agent repo: <a href="https://github.com/rustyneuron01/EVM-Defai-Agent">EVM-Defai-Agent</a>
-  
+
+
+
+
 <h3><u><strong><i>MultiChain AI Agents</i></strong></u> &nbsp;(EVM & Solana & SUI)</h3>
 <hr />
 AI Agent library what works on EVM, Solana and SUI networks. <i>Support Voice chat too</i></b>
@@ -33,7 +36,10 @@ A powerful, extensible AI agent framework designed for multichain crypto interac
 
 - Github repos: 
   - Multichain-AI-Agent-Library repo: <a href="https://github.com/rustyneuron01/Multichain-AI-Agent-Library">Multichain-AI-Agent-Library</a>
-  
+
+
+
+
 <h3><u><strong><i>Smart Contract</i></strong></u> &nbsp;(Arch Network)</h3>
 <hr />
 Completed Several Smart Contracts on Arch Network. Ordinal-Lending Marketplace, Rune & Rune Swap, Inscription & Rune Swap, Made Liquidity Pool, Voting System and Lucky Spin Game on Arch Network. <b><i>Several Projects will be launched in soon.</i></b>
