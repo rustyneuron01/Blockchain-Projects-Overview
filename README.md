@@ -1,13 +1,35 @@
 # <i>AI & Blockchain Projects on Bitcoin, EVM(Ethereum, Binance, Avalanche, Polygon, Base) and Solana.</i>
 
-As you can see here, I have built several NFT/Blockchain projects including minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, and P2E games(dice, crash, jackpot, coinflip, etc). All of repos are under private status. ***Making AI Agent in Bitcoin & Solana Networks***
+As you can see here, I have built several NFT/Blockchain projects including minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, and P2E games(dice, crash, jackpot, coinflip, etc). All of repos are under private status. ***Making AI Agent in EVM & Solana Networks***
 
+<h3><u><strong><i>Trading Bot Service</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+Made Several Bot projects on Solana network. Completed gRPC Volume Bot, Bundler Bot, Sniping Bot, Copy Trading Bot, Wallet Tracker on raydium, pumpfun, meteora platform.</b>
+
+- Github repos: 
+  - Bot Service repo: <a href="https://github.com/rustyneuron01/Bot-Service-Library">Bot-Service-Library</a>
+
+<h3><u><strong><i>EVM-Defai-Agent</i></strong></u> &nbsp;(Ethereum)</h3>
+<hr />
+Defai Agent project what built on EVM network. Support Track NFT & Token balance, Filter Trending Token, Custom EVM Smart Contract generate, Send & Swap tokens
+
+- Github repos: 
+  - EVM-Defai-Agent repo: <a href="https://github.com/rustyneuron01/EVM-Defai-Agent">EVM-Defai-Agent</a>
+  
+<h3><u><strong><i>MultiChain AI Agents</i></strong></u> &nbsp;(EVM & Solana & SUI)</h3>
+<hr />
+AI Agent library what works on EVM, Solana and SUI networks. <i>Support Voice chat too</i></b>
+A powerful, extensible AI agent framework designed for multichain crypto interactions, voice-enabled interfaces, and cross-platform communication. Seamlessly connect to Twitter, Discord, Telegram, and leverage LLMs like OpenAI, Gemini, LLaMA, Grok, and more.
+
+- Github repos: 
+  - Multichain-AI-Agent-Library repo: <a href="https://github.com/rustyneuron01/Multichain-AI-Agent-Library">Multichain-AI-Agent-Library</a>
+  
 <h3><u><strong><i>Smart Contract</i></strong></u> &nbsp;(Arch Network)</h3>
 <hr />
 Completed Several Smart Contracts on Arch Network. Ordinal-Lending Marketplace, Rune & Rune Swap, Inscription & Rune Swap, Made Liquidity Pool, Voting System and Lucky Spin Game on Arch Network. <b><i>Several Projects will be launched in soon.</i></b>
 
 - Github repos: 
-  - Smart Contract repo: <a href="https://github.com/FCBtc1116/Arch-Luck-Spin">Arch Network Smart Contracts</a>
+  - Smart Contract repo: <a href="https://github.com/rustyneuron01/Arch-Luck-Spin">Arch Network Smart Contracts</a>
 
   
 <h3><u><strong><i>Bitcoin Dapp</i></strong></u> &nbsp;(Bitcoin)</h3>
@@ -15,8 +37,8 @@ Completed Several Smart Contracts on Arch Network. Ordinal-Lending Marketplace, 
 AletheiasAgora is a DApp project. Users can use this platform to mint ordinals and then use the ordinals to create raffles. You can also perform ordinal recursion, ordinal reinscription, etc. We have deployed Rune Swap and enhanced security using a MultiSig wallet. Additionally, we have completed non-custodial BTC staking utilizing CLTV (CheckLockTimeVerify, Control RedeemScript) technology. <b><i>Made Rune Liquidity Pool, voting system on Arch Network</i></b>.
 
 - Github repos: 
-  - backend repo: <a href="https://github.com/FCBtc1116/COVault-App/tree/master/multisig-wallet">AletheiasAgora-Backend</a>
-  - frontend repo: <a href="https://github.com/FCBtc1116/COVault-App/tree/master/multisig-wallet-fe">AletheiasAgora-Frontend</a>
+  - backend repo: <a href="https://github.com/rustyneuron01/COVault-App/tree/master/multisig-wallet">AletheiasAgora-Backend</a>
+  - frontend repo: <a href="https://github.com/rustyneuron01/COVault-App/tree/master/multisig-wallet-fe">AletheiasAgora-Frontend</a>
 
   
 <h3><u><strong><i>Hydra Swap</i></strong></u> &nbsp;(Solana)</h3>
@@ -30,9 +52,9 @@ HydraSwap is a next-generation cross-chain DEX powered by our exclusive Hydra Ma
 
 - Live: <a href="https://hydraswap.io/">HydraSwap</a>
 - Github repos: 
-  - backend repo: <a href="https://github.com/victoryfox19931116/hydra-Defi-BE">Hydra-Backend</a>
-  - frontend repo: <a href="https://github.com/victoryfox19931116/hydra-Defi-FE">Hydra-Frontend</a>
-  - SmartContract repo: <a href="https://github.com/victoryfox19931116/hydra-Defi-SC">Hydra-SmartContract</a>
+  - backend repo: <a href="https://github.com/rustyneuron01/hydra-Defi-BE">Hydra-Backend</a>
+  - frontend repo: <a href="https://github.com/rustyneuron01/hydra-Defi-FE">Hydra-Frontend</a>
+  - SmartContract repo: <a href="https://github.com/rustyneuron01/hydra-Defi-SC">Hydra-SmartContract</a>
 
 <h3><u><strong><i>Bitcoin L1 Protocol</i></strong></u> &nbsp;(Bitcoin)</h3>
 <hr />
@@ -41,8 +63,8 @@ Glittr is a protocol that supports the creation of DeFi projects on the Bitcoin 
 
 - Live: <a href="https://glittr.fi/">Glittr</a>
 - Github repos: 
-  - backend repo: <a href="https://github.com/FCBtc1116/BTC-RPC-Explorer">Glittr-explorer-Backend</a>
-  - frontend repo: <a href="https://github.com/FCBtc1116/BTC-RPC-Explorer/tree/master/views">Glittr-explorer-Frontend</a>
+  - backend repo: <a href="https://github.com/rustyneuron01/BTC-RPC-Explorer">Glittr-explorer-Backend</a>
+  - frontend repo: <a href="https://github.com/rustyneuron01/BTC-RPC-Explorer/tree/master/views">Glittr-explorer-Frontend</a>
   
 <h3><u><strong><i>Bitcoin Defi</i></strong></u> &nbsp;(Bitcoin)</h3>
 <hr />
@@ -73,8 +95,8 @@ This is a BRC20 token Airdrop project on Bitcoin network. Bitmap ordinal owners 
 BmpBrc is a BRC20 airdrop platform in Bitcoin Network. I get user's taproot address and check user is bitmap ordinal owner or not. Integrate Unisat, Leader, XVerse wallets in Frontend and used PSBT, bitcoinjs lib for deploy, mint and send BRC20 tokens to user's taproot address. Get familiar with Ordinal technology(like utxo, psbt, inscribe), I can make the Bitcoin Defi project use Orinal or BRC20 tokens.
 - Live: <a href="https://bmpbrc.com/">BMP BRC20</a>
 - Github repos: 
-  - backend repo: <a href="https://github.com/victoryfox19931116/BRC20-withdraw-Backend">BRC20-Backend</a>
-  - frontend repo: <a href="https://github.com/victoryfox19931116/BRC20-Withdraw-Unisat">BRC20-Frontend</a>
+  - backend repo: <a href="https://github.com/rustyneuron01/BRC20-withdraw-Backend">BRC20-Backend</a>
+  - frontend repo: <a href="https://github.com/rustyneuron01/BRC20-Withdraw-Unisat">BRC20-Frontend</a>
 
 <h3><u><strong><i>Yieldz Lending</i></strong></u> &nbsp;(Polygon)</h3>
 
@@ -89,8 +111,8 @@ We concentrate on investors who want to invest their assets safely and who are s
 
 - Live: <a href="https://yieldzprotocol.com/">Yieldz</a>
 - Github repos: 
-  - backend repo: <a href="https://github.com/victoryfox19931116/360-Defi-SmartContract">Yieldz-Backend</a>
-  - frontend repo: <a href="https://github.com/victoryfox19931116/Yieldz-Defi-Frontend">Yieldz-Frontend</a>
+  - backend repo: <a href="https://github.com/rustyneuron01/360-Defi-SmartContract">Yieldz-Backend</a>
+  - frontend repo: <a href="https://github.com/rustyneuron01/Yieldz-Defi-Frontend">Yieldz-Frontend</a>
 
 
 <h3><u><strong><i>Playzelo</i></strong></u> &nbsp;(Bitcoin, Etheruem, Binance, Solana)</h3>
@@ -105,9 +127,9 @@ Playzelo is a game project deployed on blockchain networks. There are several ga
 
 - Live: <a href="https://playzelo.xyz/">Playzelo</a>
 - Github repos: 
-  - backend repo: <a href="https://github.com/victoryfox19931116/scissors/tree/master/backend">Playzelo Backend</a>
-  - frontend repo: <a href="https://github.com/victoryfox19931116/scissors/tree/master/frontend">Playzelo-Frontend</a>
-  - admin repo: <a href="https://github.com/victoryfox19931116/scissors/tree/master/admin">Playzelo-Admin</a>
+  - backend repo: <a href="https://github.com/rustyneuron01/scissors/tree/master/backend">Playzelo Backend</a>
+  - frontend repo: <a href="https://github.com/rustyneuron01/scissors/tree/master/frontend">Playzelo-Frontend</a>
+  - admin repo: <a href="https://github.com/rustyneuron01/scissors/tree/master/admin">Playzelo-Admin</a>
 
 
 <h3><u><strong><i>DigiMonkz</i></strong></u> &nbsp;(Etheruem)</h3>
@@ -121,8 +143,8 @@ DigiMonkz is the leading Web3 Wellness NFT collection that is building alongside
 
 - Live: <a href="https://digimonkz.com/">Digimonkz</a>
 - Github repos: 
-  - smart contract repo: <a href="https://github.com/victoryfox19931116/DigiMonkz-Staking">Digimonkz-SmartContract</a>
-  - frontend repo: <a href="https://github.com/victoryfox19931116/DigiMokz-Frontend">Digimonkz-Frontend</a>
+  - smart contract repo: <a href="https://github.com/rustyneuron01/DigiMonkz-Staking">Digimonkz-SmartContract</a>
+  - frontend repo: <a href="https://github.com/rustyneuron01/DigiMokz-Frontend">Digimonkz-Frontend</a>
   
 
 <h3><u><strong><i>UnderWorld Lending</i></strong></u> &nbsp;(Bitcoin)</h3>
@@ -136,8 +158,8 @@ UnderWorldLending Platform is an BTC Lending Platform so users can borrow BTC us
 
 - Live: <a href="https://degens.fi/">UnderWorldLending</a>
 - Github repos: 
-  - backend repo: <a href="https://github.com/victoryfox19931116/BTC-NFT-Lending-BE">UnderWorldLending-Backend</a>
-  - frontend repo: <a href="https://github.com/victoryfox19931116/BTC-NFT-Lending">UnderWorldLending-Frontend</a>
+  - backend repo: <a href="https://github.com/rustyneuron01/BTC-NFT-Lending-BE">UnderWorldLending-Backend</a>
+  - frontend repo: <a href="https://github.com/rustyneuron01/BTC-NFT-Lending">UnderWorldLending-Frontend</a>
 
 
 
@@ -153,8 +175,8 @@ Build Smart Contract use Anchor(Rust) and Frontend use Next.js. NFT Holders can 
 
 - Live: <a href="https://www.seekersyndicate.com/">Seek Syndicate</a>
 - Github repos: 
-  - smart contract repo: <a href="https://github.com/victoryfox19931116/SPLFaucetSmartContract">Seek Syndicate Smart Contract</a>
-  - frontend repo: <a href="https://github.com/victoryfox19931116/SOLFaucetFE">Seek Syndicate Front End</a>
+  - smart contract repo: <a href="https://github.com/rustyneuron01/SPLFaucetSmartContract">Seek Syndicate Smart Contract</a>
+  - frontend repo: <a href="https://github.com/rustyneuron01/SOLFaucetFE">Seek Syndicate Front End</a>
 
 
 
@@ -168,9 +190,9 @@ A kind of NFT & ETH Raffle project. Users enter raffle and buy tickets on Etheru
 - Demo: <a href="https://metasweep.io/">MetaSweep Protocol</a>
 - Live: <a href="https://metawin.com">MetaWin Protocol</a>
 - Github repos: 
-  - smart contract repo: <a href="https://github.com/victoryfox19931116/RaffleSmartContract">MetaSweep Smart Contract</a>
-  - backend repo: <a href="https://github.com/victoryfox19931116/RaffleBackend">MetaSweep Backend</a>
-  - frontend repo: <a href="https://github.com/victoryfox19931116/RaffleProject">MetaSweep Front End</a>
+  - smart contract repo: <a href="https://github.com/rustyneuron01/RaffleSmartContract">MetaSweep Smart Contract</a>
+  - backend repo: <a href="https://github.com/rustyneuron01/RaffleBackend">MetaSweep Backend</a>
+  - frontend repo: <a href="https://github.com/rustyneuron01/RaffleProject">MetaSweep Front End</a>
 
 
 <h3><u><strong><i>CashCow Protocol</i></strong></u> &nbsp;(Binance)</h3>
@@ -186,8 +208,8 @@ Cashcow is an innovative decentralized platform that combines Non-Fungible Token
     - Closely collaborated with the product and developer teams to improve the efficiency of the platform
     - Introduced Sub-graph third party to reduce the weight of web3 calls and improve web-app speed 46%
 - Github repo:
-  - Contract: <a href="https://github.com/victoryfox19931116/CashCowBackEnd-Solidity-">Cashcow Smart Contract</a>
-  - Frontend: <a href="https://github.com/victoryfox19931116/CashCowFrontEnd">Cashcow Frontend</a>
+  - Contract: <a href="https://github.com/rustyneuron01/CashCowBackEnd-Solidity-">Cashcow Smart Contract</a>
+  - Frontend: <a href="https://github.com/rustyneuron01/CashCowFrontEnd">Cashcow Frontend</a>
 
 <h3><u><strong><i>Hubble Protocol</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -202,6 +224,6 @@ Hubble is a decentralized finance (DeFi) protocol built on the Solana blockchain
     - Developed governance and utility Token(HBB) and over-collateralized stablecoin(USDH).
     - Hubble’s capital-efficient 110% collateral ratio lets users leverage up to 11x on their deposits.
 - Github repo:
-  - Contract: <a href="https://github.com/victoryfox19931116/Hubble-Backend">Hubble Smart Contract</a>
-  - Frontend: <a href="https://github.com/victoryfox19931116/Hubble-FrontEnd">Hubble Frontend</a>
-  - Frontend: <a href="https://github.com/victoryfox19931116/Hubble-landing-page">Hubble Landing Page</a>
+  - Contract: <a href="https://github.com/rustyneuron01/Hubble-Backend">Hubble Smart Contract</a>
+  - Frontend: <a href="https://github.com/rustyneuron01/Hubble-FrontEnd">Hubble Frontend</a>
+  - Frontend: <a href="https://github.com/rustyneuron01/Hubble-landing-page">Hubble Landing Page</a>
